@@ -8,7 +8,7 @@
   <a href="https://github.com/madhukargunda">
     <img src="https://img.shields.io/badge/GitHub-madhukargunda-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://sg.linkedin.com/in/madhukargunda">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
@@ -114,19 +114,6 @@ I enjoy exploring how AI agents can reason, retrieve knowledge, collaborate, use
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=madhukargunda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhukargunda&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=madhukargunda&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🔭 What I'm Currently Exploring
 
 - Anthropic Claude API and Claude Agent SDK.
@@ -146,7 +133,7 @@ I enjoy exploring how AI agents can reason, retrieve knowledge, collaborate, use
   <a href="https://github.com/madhukargunda">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://sg.linkedin.com/in/madhukargunda">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
